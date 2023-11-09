@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Misc on Quan Nguyen</title><link>https://ntaquan0125.github.io/categories/misc/</link><description>Recent content in Misc on Quan Nguyen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://ntaquan0125.github.io/categories/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>https://ntaquan0125.github.io/p/hello-world/</link><pubDate>Fri, 10 Nov 2023 00:00:00 +0800</pubDate><guid>https://ntaquan0125.github.io/p/hello-world/</guid><description>&lt;img src="https://ntaquan0125.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World!" />&lt;h2 id="markdown">Markdown&lt;/h2>
+&lt;h3 id="blockquote">Blockquote&lt;/h3>
+&lt;blockquote>
+&lt;p>“Totus mundus agit histrionem. (All the World&amp;rsquo;s a Stage.)&amp;quot;&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>William Shakespeare&amp;#39;s Globe Theatre&lt;/span>&lt;cite>&lt;/cite>&lt;/span>&lt;/blockquote>
+&lt;h3 id="ordered-list">Ordered List&lt;/h3>
+&lt;ol>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;li>Third item&lt;/li>
+&lt;/ol>
+&lt;h3 id="unordered-list">Unordered List&lt;/h3>
+&lt;ul>
+&lt;li>List item&lt;/li>
+&lt;li>Another item&lt;/li>
+&lt;li>And another item&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Age&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Bob&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alice&lt;/td>
+&lt;td>23&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="code-blocks">Code Blocks&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#include&lt;/span> &lt;span class="cpf">&amp;lt;stdio.h&amp;gt;&lt;/span>&lt;span class="cp">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello world&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="math">Math&lt;/h2>
+&lt;p>This is an inline equation: $e^{i\pi}+1=0$&lt;/p>
+&lt;p>This is a block equation:
+$$
+t&amp;rsquo; = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
+$$&lt;/p>
+&lt;h2 id="media">Media&lt;/h2>
+&lt;h3 id="image">Image&lt;/h3>
+&lt;p>&lt;img src="https://ntaquan0125.github.io/p/hello-world/cover.jpg"
+width="1000"
+height="667"
+srcset="https://ntaquan0125.github.io/p/hello-world/cover_hud7e36f7e20e71be184458283bdae4646_55974_480x0_resize_q75_box.jpg 480w, https://ntaquan0125.github.io/p/hello-world/cover_hud7e36f7e20e71be184458283bdae4646_55974_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;h3 id="video">Video&lt;/h3>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/MGt25mv4-2Q"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item></channel></rss>
