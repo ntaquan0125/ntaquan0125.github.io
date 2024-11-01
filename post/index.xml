@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Quan Nguyen</title><link>https://ntaquan0125.github.io/post/</link><description>Recent content in Posts on Quan Nguyen</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://ntaquan0125.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World!</title><link>https://ntaquan0125.github.io/p/hello-world/</link><pubDate>Fri, 10 Nov 2023 00:00:00 +0800</pubDate><guid>https://ntaquan0125.github.io/p/hello-world/</guid><description>&lt;img src="https://ntaquan0125.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World!" />&lt;h2 id="markdown">Markdown
+&lt;/h2>&lt;h3 id="blockquote">Blockquote
+&lt;/h3>&lt;blockquote>
+&lt;p>“Totus mundus agit histrionem. (All the World&amp;rsquo;s a Stage.)&amp;quot;&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>William Shakespeare&amp;#39;s Globe Theatre&lt;/span>&lt;cite>&lt;/cite>&lt;/span>&lt;/blockquote>
+&lt;h3 id="ordered-list">Ordered List
+&lt;/h3>&lt;ol>
+&lt;li>First item&lt;/li>
+&lt;li>Second item&lt;/li>
+&lt;li>Third item&lt;/li>
+&lt;/ol>
+&lt;h3 id="unordered-list">Unordered List
+&lt;/h3>&lt;ul>
+&lt;li>List item&lt;/li>
+&lt;li>Another item&lt;/li>
+&lt;li>And another item&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Age&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Bob&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alice&lt;/td>
+&lt;td>23&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="code-blocks">Code Blocks
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-c" data-lang="c">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#include&lt;/span> &lt;span class="cpf">&amp;lt;stdio.h&amp;gt;&lt;/span>&lt;span class="cp">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="nf">main&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nf">printf&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s">&amp;#34;Hello world&amp;#34;&lt;/span>&lt;span class="p">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">return&lt;/span> &lt;span class="mi">0&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="math">Math
+&lt;/h2>&lt;p>This is an inline equation: $e^{i\pi}+1=0$&lt;/p>
+&lt;p>This is a block equation:
+$$
+t&amp;rsquo; = \frac{t}{\sqrt{1 - \frac{v^2}{c^2}}}
+$$&lt;/p>
+&lt;h2 id="media">Media
+&lt;/h2>&lt;h3 id="image">Image
+&lt;/h3>&lt;p>&lt;img src="https://ntaquan0125.github.io/p/hello-world/cover.jpg"
+width="1000"
+height="667"
+srcset="https://ntaquan0125.github.io/p/hello-world/cover_hu16257320553224028419.jpg 480w, https://ntaquan0125.github.io/p/hello-world/cover_hu4170966261580821530.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;h3 id="video">Video
+&lt;/h3>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/MGt25mv4-2Q"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>List 100 things I want to do before I die</title><link>https://ntaquan0125.github.io/p/list-100/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ntaquan0125.github.io/p/list-100/</guid><description>&lt;p>I will try to update this list regularly.
+Progress: 15/65&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>✔️ Start a blog post&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Live in another country&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Pass JLPT N1 (my 3th language) 💮&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Carry a conversation in French (my 4th language)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Work in world&amp;rsquo;s largest campus (Station F)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Work in world&amp;rsquo;s top big-tech company&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Become the first author of a paper at a top-tier conference&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Author a patent&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Get a PhD (in CS) 🎓&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Try another degree (maybe psychology)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Teach a course&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Have a keynote talk&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Go to a classical music performance 🎻&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Go to my favorite artist&amp;rsquo;s concert (Ado) 💙&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Go to an opera 🎭&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Go to Comiket 🔞&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Learn archery 🏹&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Go on a camping trip in the mountains 🏕&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Sleep outside on the beach, under the sky&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Take a hot spring bath ♨️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Participate in a traditional tea ceremony 🍵&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Play at a casino 🎰&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Watch a bullfight 🐮&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ See auroras 🌌&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Ski ⛄️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Scuba dive 🤿&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Fly a plane ✈️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Take a hot air balloon ride&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Ride a horse 🐴&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Be in a submarine&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ See a meteor shower ☄️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Eat at 3-star Michelin restaurant&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Have a Parisian breakfast 🥐&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Eat sushi in Japan 🍣&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Eat pizza in Italy 🍕&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Drink beer in Germany 🍻&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ See a Broadway show in New York&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Ride a gondola in Venice&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Drink vodka in Russia&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Sail around the Caribbean ⛵️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Carnival in Brazil&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Go on an African safari&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Surf in Haiwaii&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ See morning glory cloud ☁️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Go on a trip overseas with my whole family&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Visit 10 countries&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Visit 50 countries 🧳&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Visit 100 countries 🌏&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Learn to play chess ♟&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Get a driving lisence 🚗&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Read 100 books (lol is this real?)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Read 500 books 📖&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Read 1000 books 📚&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Play a music instrument 🎸&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Play the 2nd music instrument 🎹&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Write a song 🎵&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Have 10 videos on Youtube 🎬&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>✔️ Fall in love&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Get married to someone I love ❤️&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Build a home&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Have a cat 🐱&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Have a salad from my own garden 🥗&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Make a dessert 🧁&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Open a bakery 🍞&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❌ Volunteer at a shrine/temple ⛩&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>We&amp;rsquo;re just living this moment.&lt;br>
+On this path that we&amp;rsquo;ve chosen.&lt;br>
+We&amp;rsquo;re like diamonds in starlight.&lt;br>
+We shine in the dark night.&lt;br>
+Cause we are the highlight.&lt;br>&lt;/p></description></item></channel></rss>
